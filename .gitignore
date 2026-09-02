@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+random_forest_model.pkl
+.~lock*
